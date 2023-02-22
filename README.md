@@ -19,5 +19,8 @@ Aqui puedes conocerme un poco.
     <a href="https://www.linkedin.com/in/alvaro-cantero-363212223/" target="_blank">
         <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" 
     height="50">
+    <a href="https://www.artstation.com/itoxic3d" target="_blank">
+        <img loading="lazy" src="artstation.png" 
+    height="50">
     </a> &nbsp;&nbsp;  
 </p>
