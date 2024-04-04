@@ -3,7 +3,14 @@
 # ¡Hola! Soy Álvaro
  
 Estudiante de Desarollo de Aplicaciones Multiplataforma💻.<br>
-He desarrollado algunos proyecto para 👾Unity o Unreal Engine🎮.
+He desarrollado algunos proyecto para 👾Unity o Unreal Engine🎮. <br> 
+Mira mis proyecto aqui: <br>
+<br>
+<a href="https://itoxicd.itch.io/" target="_blank">
+<img loading="lazy" src="https://github.com/iToxicD/iToxicD/blob/main/Imagenes/Itch.io_logo.svg.png" 
+height="25">
+</a>
+
 <h2>Herramientas que utilizo:</h2>
 <p align="center">
   <img loading="lazy" src="https://distreau.com/github.svg" 
@@ -17,10 +24,6 @@ He desarrollado algunos proyecto para 👾Unity o Unreal Engine🎮.
  <img loading="lazy" src="https://github.com/EpicKiwi/unreal-engine-editor-icons/blob/master/imgs/Icons/EditorAppIcon.png" 
   height="45">
 </p>
- 
-
-
-
 
 <h2>Redes Sociales</h2>
 <p align="center">
@@ -29,22 +32,19 @@ Aqui puedes conocerme un poco.
 <p align="center">
     <a href="https://github.com/iToxicD" target="_blank">
         <img loading="lazy" src="https://distreau.com/github.svg" 
-    height="50">
+    height="45">
     <a href="https://www.linkedin.com/in/alvaro-cantero-363212223/" target="_blank">
         <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" 
-    height="50">
+    height="45">
     <a href="https://www.artstation.com/itoxic3d" target="_blank">
         <img loading="lazy" src="https://github.com/iToxicD/iToxicD/blob/main/Imagenes/artstation.png" 
-    height="50">
+    height="45">
     </a>
     <a href="https://www.instagram.com/itoxic3d/" target="_blank">
         <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" 
-    height="50">
+    height="45">
     </a>
-    <a href="https://itoxicd.itch.io/" target="_blank">
-        <img loading="lazy" src="https://es.wikipedia.org/wiki/Itch.io#/media/Archivo:Itch.io_logo.svg" 
-    height="50">
-    </a> 
+   
 </p>
 
 Este repositorio lo ire modificando y poniendolo mejor, tengo que pensar como ponerlo para que quede bien:sunglasses:.
