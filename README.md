@@ -2,7 +2,8 @@
  
 # ¡Hola! Soy Álvaro
  
-Soy estudiante de :space_invader: Desarollo de videojuegos y realidad virtual:video_game:. En este ambito me especializo en el diseño de niveles, usando motores gráficos como Unity o Unreal Engine. Aqui te dejo mi porfolio de <a href="https://www.artstation.com/itoxic3d/profile" target="_blank">ArtStation</a>.
+Soy estudiante de :space_invader: Desarollo de Aplicaciones Multiplataforma:video_game:. 
+Aqui te dejo mi porfolio de <a href="https://www.artstation.com/itoxic3d/profile" target="_blank">ArtStation</a>.
 
 A parte, tambien me gusta la musica:musical_note:, toco el trombón (o por lo menos lo intento).
 
