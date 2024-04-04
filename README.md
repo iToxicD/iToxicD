@@ -47,4 +47,4 @@ Aqui puedes conocerme un poco.
    
 </p>
 
-Este repositorio lo ire modificando y poniendolo mejor, tengo que pensar como ponerlo para que quede bien:sunglasses:.
+Este repositorio lo ire modificando y poniendolo mejor, tengo que pensar como ponerlo para que quede bien😅.
