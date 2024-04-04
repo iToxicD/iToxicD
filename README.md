@@ -34,9 +34,17 @@ Aqui puedes conocerme un poco.
         <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" 
     height="50">
     <a href="https://www.artstation.com/itoxic3d" target="_blank">
-        <img loading="lazy" src="artstation.png" 
+        <img loading="lazy" src="https://github.com/iToxicD/iToxicD/blob/main/Imagenes/artstation.png" 
     height="50">
-    </a> &nbsp;&nbsp;  
+    </a>
+    <a href="https://www.instagram.com/itoxic3d/" target="_blank">
+        <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" 
+    height="50">
+    </a>
+    <a href="https://itoxicd.itch.io/" target="_blank">
+        <img loading="lazy" src="https://es.wikipedia.org/wiki/Itch.io#/media/Archivo:Itch.io_logo.svg" 
+    height="50">
+    </a> 
 </p>
 
 Este repositorio lo ire modificando y poniendolo mejor, tengo que pensar como ponerlo para que quede bien:sunglasses:.
