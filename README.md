@@ -2,14 +2,27 @@
  
 # ¡Hola! Soy Álvaro
  
-Soy estudiante de :space_invader: Desarollo de Aplicaciones Multiplataforma:video_game:. 
-Aqui te dejo mi porfolio de <a href="https://www.artstation.com/itoxic3d/profile" target="_blank">ArtStation</a>.
+Estudiante de Desarollo de Aplicaciones Multiplataforma💻.<br>
+He desarrollado algunos proyecto para 👾Unity o Unreal Engine🎮.
+<h2>Herramientas que utilizo:</h2>
+<p align="center">
+  <img loading="lazy" src="https://distreau.com/github.svg" 
+  height="45">
+  <img loading="lazy" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" 
+  height="45">
+  <img loading="lazy" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" 
+  height="45">
+  <img loading="lazy"   src="https://camo.githubusercontent.com/1b4a9461723a3fe7ff224ca79da5c1a7217d489a0b7ce744e04cc8c580c450cd/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f632f63342f556e6974795f323032312e737667" 
+  height="45">
+ <img loading="lazy" src="https://github.com/EpicKiwi/unreal-engine-editor-icons/blob/master/imgs/Icons/EditorAppIcon.png" 
+  height="45">
+</p>
+ 
 
-A parte, tambien me gusta la musica:musical_note:, toco el trombón (o por lo menos lo intento).
 
-Este repositorio lo ire modificando y poniendolo mejor, tengo que pensar como ponerlo para que quede bien:sunglasses:.
 
-<h2 align="center"> Redes Sociales </h2>
+
+<h2>Redes Sociales</h2>
 <p align="center">
 Aqui puedes conocerme un poco.
 
@@ -25,3 +38,5 @@ Aqui puedes conocerme un poco.
     height="50">
     </a> &nbsp;&nbsp;  
 </p>
+
+Este repositorio lo ire modificando y poniendolo mejor, tengo que pensar como ponerlo para que quede bien:sunglasses:.
