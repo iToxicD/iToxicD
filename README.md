@@ -2,8 +2,7 @@
  
 # ¡Hola! Soy Álvaro
  
-Estudiante de Desarollo de Aplicaciones Multiplataforma💻.<br>
-He desarrollado algunos proyecto para 👾Unity o Unreal Engine🎮. <br> 
+Estudiante de Desarollo de Aplicaciones Multiplataforma💻. Me gusta trastear con los ordenadores desde... hace bastante tiempo, en especial me gusto siempre el crear cosas a traves de ellos, por eso tengo algunos videojuegos (sencillos) que he hecho recientemente. Algunos de estos proyectos han sido desarrollados en 👾Unity o Unreal Engine🎮. <br> 
 Mira mis proyecto aqui: <br>
 <br>
 <a href="https://itoxicd.itch.io/" target="_blank">
