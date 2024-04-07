@@ -25,7 +25,7 @@ Herramientas que uso para clase son:
   height="45">
 </p>
 Herramientas que uso para el desarrollo de videojuegos:
-<p>
+<p align="center">
  <img loading="lazy" src="https://github.com/iToxicD/iToxicD/blob/main/Imagenes/unity.png" 
   height="45">
  <img loading="lazy" src="https://github.com/iToxicD/iToxicD/blob/main/Imagenes/unreal.png" 
