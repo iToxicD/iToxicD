@@ -2,7 +2,7 @@
  
 # ¡Hola! Soy Álvaro
  
-Puede que mi nombre de usuario sea lo que menos te esperas al entrar a este perfil de GitHub pero soy un simple estudiante de Desarollo de Aplicaciones Multiplataforma💻. Me gusta trastear con los ordenadores desde... hace bastante tiempo, en especial me gusto siempre el crear cosas a traves de ellos, por eso tengo algunos videojuegos (sencillos) que he hecho recientemente. Algunos de estos proyectos han sido desarrollados en 👾Unity o Unreal Engine🎮. <br> 
+Puede que mi nombre de usuario sea lo que menos te esperas al entrar a este perfil de GitHub pero soy un simple estudiante de Desarollo de Aplicaciones Multiplataforma💻. Me gusta trastear con los ordenadores desde... hace bastante tiempo, en especial me gustó siempre el crear cosas a traves de ellos, por eso tengo algunos videojuegos (sencillos) que he hecho recientemente. Algunos de estos proyectos han sido desarrollados en 👾Unity o Unreal Engine🎮. <br> 
 
 <h2>Herramientas que uso</h2>
 
