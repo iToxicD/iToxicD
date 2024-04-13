@@ -1,50 +1,64 @@
- ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green) 
- 
-# ¡Hola! Soy Álvaro
- 
-Puede que mi nombre de usuario sea lo que menos te esperas al entrar a este perfil de GitHub pero soy un simple estudiante de Desarollo de Aplicaciones Multiplataforma💻. <br>
-<br>
-Me gusta trastear con los ordenadores desde... hace bastante tiempo, en especial me gustó siempre el crear cosas a traves de ellos, por eso tengo algunos videojuegos (sencillos) que he hecho recientemente. Estos proyectos han sido desarrollados en 👾Unity o Unreal Engine🎮. <br> 
 
-<h2>Herramientas que uso</h2>
+<div align="center">
+  <a href="www.linkedin.com/in/alvarocanterocardenas" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/itoxic3d/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://linktr.ee/alvarocc99" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo"  />
+  </a>
+</div>
 
-<p align="center">
-  <img loading="lazy" src="https://distreau.com/github.svg" 
-  height="45"> 
-  <img loading="lazy" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" 
-  height="45"> 
-  <img loading="lazy" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" 
-  height="45">
- <img loading="lazy" src="https://github.com/iToxicD/iToxicD/blob/main/Imagenes/unity.png" 
-  height="45">
- <img loading="lazy" src="https://github.com/iToxicD/iToxicD/blob/main/Imagenes/unreal.png" 
-  height="45">
-</p>
+###
 
-<h2>Redes Sociales</h2>
-<p align="center">
-Mira mis RRSS y proyectos:
+<h1 align="center">¡Hola!👋</h1>
 
-<p align="center">
-    <a href="https://github.com/iToxicD" target="_blank">
-        <img loading="lazy" src="https://distreau.com/github.svg" 
-    height="45">
-    <a href="https://www.linkedin.com/in/alvaro-cantero-363212223/" target="_blank">
-        <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" 
-    height="45">
-    <a href="https://www.artstation.com/itoxic3d" target="_blank">
-        <img loading="lazy" src="https://github.com/iToxicD/iToxicD/blob/main/Imagenes/artstation.png" 
-    height="45">
-    </a>
-    <a href="https://www.instagram.com/itoxic3d/" target="_blank">
-        <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" 
-    height="45">
-    </a>
-    <a href="https://itoxicd.itch.io/" target="_blank">
-    <img loading="lazy" src="https://github.com/iToxicD/iToxicD/blob/main/Imagenes/itch.io.png" 
-    height="45">
-   </a>
+###
 
-</p>
+<h3 align="left">👩‍💻  Sobre mi...</h3>
 
-Este repositorio lo ire modificando y poniendolo mejor, tengo que pensar como ponerlo para que quede bien😅.
+###
+
+<p align="left">Me llamo Álvaro y soy de Cádiz<br><br>- 📚 Actualmente soy estudiante de Desarrollo de Aplicaciones Multiplataforma 💻<br>- 🔭 He hecho proyectos en Unity y Unreal Engine<br>- ⚡ En mi tiempo libre me gusta escuchar música, jugar videojuegos (aparte de hacer algun que otro), ver pelis y más cosas pero no quiero aburrirte con una lista enorme.</p>
+
+###
+
+<h3 align="left">🛠Lenguajes y herramientas</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="unrealengine logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   Estadisticas:</h3>
+
+###
