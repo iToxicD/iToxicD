@@ -23,7 +23,7 @@ Me gusta trastear con los ordenadores desde... hace bastante tiempo, en especial
 
 <h2>Redes Sociales</h2>
 <p align="center">
-Aqui puedes conocerme un poco.
+Mira mis RRSS y proyectos:
 
 <p align="center">
     <a href="https://github.com/iToxicD" target="_blank">
