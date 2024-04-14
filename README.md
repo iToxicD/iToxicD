@@ -59,6 +59,4 @@
 
 ###
 
-<h3 align="left">🔥   Estadisticas:</h3>
-
 ###
